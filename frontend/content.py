@@ -1,0 +1,4 @@
+TITLE = "🧠 Second Brain"
+EDIT_REDIRECT_TEXT = "📝 Edit"
+REVIEW_REDIRECT_TEXT = "🔍 Review"
+INSTRUCTIONS_REDIRECT_TEXT = "📚 Instructions"
